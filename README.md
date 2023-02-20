@@ -11,6 +11,6 @@
 * Enter the value for 'IntA' and 'IntB' to perform the request Service.
 * After inserting the values, click on the Submit Response icon for executing the Add Request.
 ### SOAPUI - Project Structure
-![Alt Text](https://github.com/uttamkeshri786/-SoapUI-project/blob/main/soapui-project-structure.png)
+![Alt Text](https://github.com/uttamkeshri786/SoapUI-project/blob/main/soapui-project-structure.png)
 ### Test - HTTP Success 
-![Alt Text](https://github.com/uttamkeshri786/-SoapUI-project/blob/main/soap-http-response-success.png)
+![Alt Text](https://github.com/uttamkeshri786/SoapUI-project/blob/main/soap-http-response-success.png)
